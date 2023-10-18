@@ -1,3 +1,7 @@
+# Notice
+- As of October 18, 2023, this repository will no longer be maintained.
+- From now on, only repositories with the awesome prefix will be managed.
+
 ### starbucks-landing-page-sample
 
 - This is the sample source code that composes the Starbucks landing page.
